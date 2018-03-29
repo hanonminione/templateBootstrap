@@ -125,7 +125,7 @@ nav > ul > li > a{
         position: static;
     }
     body{
-    background: url("ImageFondAlt.png");
+    background: url("../images/ImageFondAlt.png");
     background-color: black;
     background-size: 100%;
     background-repeat: no-repeat;

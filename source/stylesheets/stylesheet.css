@@ -20,9 +20,8 @@ h1{
 .content{
     margin-left: 24%;
     margin-right: 24%;
-    margin-top: 24%;
-    width: 1000px;
+    margin-top: 3%;
     background-color: RGBa(255,255,255,0.125);
-    position: relative;
+    position: absolute;
     box-shadow: 0px 0px 24px black;
 }
