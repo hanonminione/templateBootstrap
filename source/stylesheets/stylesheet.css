@@ -106,3 +106,38 @@ p{
 .button:hover{
     background: grey;
 }
+
+.fieldset{      
+    margin: 3px;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding-bottom: 24px;
+    border-radius: 6px;
+    border: none;
+    box-shadow: 0px 0px 12px black;
+    background: #424242;
+    text-align: center
+}
+
+legend{
+    padding-top: 54px;
+    padding-bottom: 6px;
+    font-family: "Lobster", cursive;
+    color: white;
+    font-size: 24px;
+}
+
+.select{
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 6px;
+    border-radius: 6px;
+    width: 72%;
+    border: none;
+    box-shadow: 0px 0px 12px black;
+    background: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 0px 0px 1px black;
+    font-size: 15px;
+}

@@ -38,30 +38,30 @@ include 'header.html';
         <input type="radio" name="Boutons radio" value="" disabled="disabled" />Bouton Radio désactivé<br/>
     </fieldset>
     
-    <fieldset>
+    <fieldset class="fieldset">
         <legend>Ceci est un fieldset contenant des listes</legend>
-        <select name="list">
+        <select class="select" name="list">
             <option>Ceci est un select avec un seul choix possible</option>
             <option>autre choix</option>
             <option>autre choix</option>
             <option>autre choix</option>
             <option>autre choix</option>
         </select> <br /> <br />
-        <select name="" size="3">
+        <select class="select" name="" size="3">
             <option>Ceci est un select </option>
             <option>avec un seul choix possible</option>
             <option>mais on peut en voir plusieurs en même temps</option>
             <option>autre choix</option>
             <option>autre choix</option>
-        </select> <br /> <br />
-        <select name="" multiple="multiple">
+        </select class="select"> <br /> <br />
+        <select class="select" name="" multiple="multiple">
             <option>Ceci est un select</option>
             <option>avec plusieurs choix possibles</option>
             <option>(avec CTRL)</option>
             <option>autre choix</option>
             <option>autre choix</option>
         </select> <br /> <br />
-        <select name="" disabled="disabled">
+        <select class="select" name="" disabled="disabled">
             <option>Ceci est un select désactivé</option>
             <option>2</option>
             <option>3</option>
