@@ -76,12 +76,27 @@ p{
 }
 
 .button{
+    width: 162px;
     padding: 12px 24px;
-    margin: 6px;
+    margin: 3px;
     border-radius: 6px;
     border: none;
     box-shadow: 0px 0px 12px black;
     background: #424242;
+    font-family: "Lobster", cursive;
+    color: white;
+    font-size: 18px;
+    text-shadow: 0px 0px 12px black;
+}
+
+.button-dis{
+    width: 162px;
+    padding: 12px 24px;
+    margin: 3px;
+    border-radius: 6px;
+    border: none;
+    box-shadow: 0px 0px 12px black;
+    background: #313131;
     font-family: "Lobster", cursive;
     color: white;
     font-size: 18px;

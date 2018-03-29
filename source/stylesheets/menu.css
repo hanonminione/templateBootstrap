@@ -71,7 +71,7 @@ nav > ul > li > a{
 }
 
 .menu:hover{
-    background: linear-gradient(to bottom, rgba(255,255,255,0.5), rgba(255,255,255,0), rgba(255,255,255,0) 48px);
+    background: grey;
 }
 
 .menu-mobile {
@@ -83,7 +83,7 @@ nav > ul > li > a{
 }
 
 .menu .submenu li:hover{
-    background: linear-gradient(to bottom, rgba(255,255,255,0.5), rgba(255,255,255,0), rgba(255,255,255,0) 48px);
+    background: grey;
 }
     
 .submenu{
