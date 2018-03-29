@@ -28,6 +28,12 @@ include 'header.html';
         <input type="checkbox" value="ON" checked="checked" /> Checkbox sélectionné <br />
         <input type="checkbox" value="ON" disabled="disabled" /> Checkbox désactivé <br/>
     </fieldset>
+    <fieldset>
+        <legend>Ceci est un fieldset avec des boutons radio</legend>
+        <input type="radio" name="Boutons radio" value="" />Bouton Radio<br/>
+        <input type="radio" name="Boutons radio" value="" checked="checked" />Bouton Radio sélectionné<br/>
+        <input type="radio" name="Boutons radio" value="" disabled="disabled" />Bouton Radio désactivé<br/>
+    </fieldset>
     
 </form>
 <?php
