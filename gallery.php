@@ -16,6 +16,8 @@ include 'header.html';
 <i>Ceci est en italique</i> <br />
 <b>Ceci est en gras</b> <br />
 <a href="#">Ceci est un lien</a> <br />
+<q cite="#">Ceci est une citation courte</q> <br />
+<code>Ceci contient du code informatique</code>
 
 <form class="form">
     <legend>Ceci est un formulaire</legend>
