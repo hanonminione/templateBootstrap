@@ -6,16 +6,10 @@ include 'header.html';
 
 <h1>Contactez-nous</h1>
 
-<<<<<<< HEAD
 <form class="form">
     
     <label for="sujet">Sujet : </label>
     <select name="sujet" id='sujet'>
-=======
-<form>
-    <label for='sujet'>Sujet : </label>
-    <select name='sujet' id='sujet'>
->>>>>>> 84006dae321aa3d63c636a5e37ddbd69115d9f37
         <option selected>Vous êtes géniaux</option>
         <option>Vous êtes beaux</option>
         <option>Vous êtes intelligents</option>
