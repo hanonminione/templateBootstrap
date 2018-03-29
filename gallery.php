@@ -19,7 +19,7 @@ include 'header.html';
 
 <form class="form">
     <legend>Ceci est un formulaire</legend>
-    <input type="submit" value="Bouton envoyer" />
+    <input class="button" type="submit" value="Bouton envoyer" />
     <input type="reset" value="Bouton reset" />
     <input type="button" value="Bouton classique" />
     <input type="button" value="Bouton désactivé" disabled="disabled" />
