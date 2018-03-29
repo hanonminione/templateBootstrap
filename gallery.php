@@ -90,6 +90,122 @@ include 'header.html';
         </textarea>
     </fieldset>
     
+    <fieldset>
+        <legend>Ceci est fait pour sélectionner des fichiers depuis votre ordinateur</legend>
+        <label for='select'> Sélectionnez un fichier</label>
+        <input type="file" id='select' name="" value="" /> <br /><br />
+        <label for='selectdisabled'>La sélection de fichier est désactivée</label>
+        <input type="file" id='selectdisabled' name="" value="" disabled="disabled" /> 
+    </fieldset>
+    <br/>
+    Voici la superbe photo d'un renard
+    <img src="source/images/renard.jpg"/> <br/>
+    <ol type="1">
+        <li>Ceci est une liste</li>
+        <li>(avec des numéros)</li>
+    </ol>
+    <ol type="a">
+        <li>Ceci est une liste</li>
+        <li>(en lettres minuscules)</li>
+    </ol>
+    <ol type="A">
+        <li>Ceci est une liste</li>
+        <li>(en lettres majuscules)</li>
+    </ol>
+    <ol type="i">
+        <li>Ceci est une liste</li>
+        <li>(en chiffres romains - minuscules)</li>
+    </ol>
+    <ol type="I">
+        <li>Ceci est une liste</li>
+        <li>(en chiffres romains - majuscules)</li>
+    </ol>
+    <ul type="disc">
+        <li>Ceci est une liste</li>
+        <li>(avec des ronds)</li>
+    </ul>
+    <ul type="circle">
+        <li>Ceci est une liste</li>
+        <li>(avec des cercles)</li>
+    </ul>
+    <ul type="square">
+        <li>Ceci est une liste</li>
+        <li>(avec des carrés)</li>
+    </ul>
+    <table border="0">
+        <thead>
+            <tr>
+                <th>v</th>
+                <th>o</th>
+                <th>i</th>
+                <th>c</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>i</td>
+                <td>u</td>
+                <td>n</td>
+                <td>t</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    <table border="1">
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    
 </form>
 <?php
 
