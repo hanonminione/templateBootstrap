@@ -22,9 +22,9 @@ include 'header.html';
 <form class="form">
     <legend>Ceci est un formulaire</legend>
     <input class="button" type="submit" value="Bouton envoyer" />
-    <input type="reset" value="Bouton reset" />
-    <input type="button" value="Bouton classique" />
-    <input type="button" value="Bouton désactivé" disabled="disabled" />
+    <input class="button" type="reset" value="Bouton reset" />
+    <input class="button" type="button" value="Bouton classique" />
+    <input class="button" type="button" value="Bouton désactivé" disabled="disabled" />
     <fieldset>
         <legend>Ceci est un fieldset avec des checkbox</legend>
         <input type="checkbox" value="ON" /> Checkbox <br/>
