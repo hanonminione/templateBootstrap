@@ -6,7 +6,7 @@ include 'header.html';
 
 <h1>Inscription</h1>
 
-<form>
+<form class="form">
       <label for="mail">Adresse e-mail * : </label>
       <input type="email" id="mail" placeholder="ex.exemple@exemple.fr">
       <br />

@@ -16,7 +16,7 @@ p{
     text-align: justify;
 }
 
-.background-transparent{
+.background-transparent{    
     position: fixed;
     margin-left: 24%;
     margin-right: 24%;
@@ -33,6 +33,7 @@ p{
     margin-right: 27%;
 }
 
-.form{
-    z-index: 30;
+.form {
+    position: relative;
+    text-align: center;
 }

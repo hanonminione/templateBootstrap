@@ -6,7 +6,7 @@ include 'header.html';
 
 <h1>Connexion</h1>
 
-<form>
+<form class="form">
       <label for="mail">Identifiant : </label>
       <input type="email" id="mail" placeholder="ex.exemple@exemple.fr">
       <br />
