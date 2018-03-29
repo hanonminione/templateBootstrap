@@ -135,72 +135,72 @@ include 'header.html';
     <table border="0">
         <thead>
             <tr>
-                <th>v</th>
-                <th>o</th>
-                <th>i</th>
-                <th>c</th>
+                <th>voici l'entête</th>
+                <th>d'un</th>
+                <th>tableau</th>
+                <th>sans bordures</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>i</td>
-                <td>u</td>
-                <td>n</td>
-                <td>t</td>
+                <td>ainsi</td>
+                <td>que</td>
+                <td>ses</td>
+                <td>nombreuses</td>
             </tr>
             <tr>
+                <td>cases</td>
+                <td>,</td>
+                <td>colonnes</td>
+                <td>et</td>
+            </tr>
+            <tr>
+                <td>lignes</td>
                 <td></td>
-                <td></td>
-                <td></td>
+                <td>!</td>
                 <td></td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>;)</td>
+                <td>;D</td>
+                <td>:*</td>
+                <td>♥</td>
             </tr>
         </tbody>
     </table>
     <table border="1">
         <thead>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>voici l'équivalent</th>
+                <th>du</th>
+                <th>tableau</th>
+                <th>avec les bordures</th>
             </tr>
         </thead>
         <tbody>
             <tr>
+                <td>ainsi</td>
+                <td>que</td>
+                <td>ses</td>
+                <td>nombreuses</td>
+            </tr>
+            <tr>
+                <td>cases</td>
+                <td>,</td>
+                <td>colonnes</td>
+                <td>et</td>
+            </tr>
+            <tr>
+                <td>lignes</td>
                 <td></td>
-                <td></td>
-                <td></td>
+                <td>!</td>
                 <td></td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>;)</td>
+                <td>;D</td>
+                <td>:*</td>
+                <td>♥</td>
             </tr>
         </tbody>
     </table>
