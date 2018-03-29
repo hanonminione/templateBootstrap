@@ -6,7 +6,8 @@ include 'header.html';
 
 <h1>Contactez-nous</h1>
 
-<form>
+<form class="form">
+    
     <label for="sujet">Sujet : </label>
     <select name="sujet" id='sujet'>
         <option selected>Vous êtes géniaux</option>
