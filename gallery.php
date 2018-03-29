@@ -24,7 +24,7 @@ include 'header.html';
     <input class="button" type="submit" value="Bouton envoyer" />
     <input class="button" type="reset" value="Bouton reset" />
     <input class="button" type="button" value="Bouton classique" />
-    <input class="button" type="button" value="Bouton désactivé" disabled="disabled" />
+    <input class="button-dis" type="button" value="Bouton désactivé" disabled="disabled" />
     <fieldset>
         <legend>Ceci est un fieldset avec des checkbox</legend>
         <input type="checkbox" value="ON" /> Checkbox <br/>
