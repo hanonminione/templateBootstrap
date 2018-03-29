@@ -17,9 +17,16 @@ include 'header.html';
       <input type="password" id="mdp" placeholder="Mot de passe">
       <br />
       <p>* Les champs avec une astérisque sont obligatoires !</p>
-    <div>
-    </div>
     <button type="submit">S'inscrire</button>
+    
+    <p>Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
+    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
+    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
+    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
+    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
+    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
+    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. </p>
+    
 </form>
 
 <?php
