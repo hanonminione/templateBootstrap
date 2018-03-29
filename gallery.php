@@ -16,10 +16,22 @@ include 'header.html';
 <i>Ceci est en italique</i> <br />
 <b>Ceci est en gras</b> <br />
 <a href="#">Ceci est un lien</a> <br />
+
+<form>
+    <legend>Ceci est un formulaire</legend>
+    <input type="submit" value="Bouton envoyer" />
+    <input type="reset" value="Bouton reset" />
+    <input type="button" value="Bouton classique" />
+    <fieldset>
+        <legend>Ceci est un fieldset avec des checkbox</legend>
+        <input type="checkbox" value="ON" /> Checkbox <br/>
+        <input type="checkbox" value="ON" checked="checked" /> Checkbox sélectionné <br />
+        <input type="checkbox" value="ON" disabled="disabled" /> Checkbox désactivé <br/>
+    </fieldset>
+    
+</form>
 <?php
 
 include 'footer.html';
 
 ?>
-
-
