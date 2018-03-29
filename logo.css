@@ -1,0 +1,16 @@
+.logo{
+    float: left;
+    width: 360px;
+    padding-top: 6px;
+    height: 66px;
+    text-align: center;
+    font-family: "Lobster", cursive;
+    font-size: 48px;
+    color: white;
+    text-decoration: none;
+}
+
+.logo:hover{
+    background-color: #222222;
+    !background: linear-gradient(to bottom, RGBa(255,255,255,0.25), RGBa(0,0,0,0) 42px);
+}
