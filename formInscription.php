@@ -19,14 +19,6 @@ include 'header.html';
       <p>* Les champs avec une astérisque sont obligatoires !</p>
     <button type="submit">S'inscrire</button>
     
-    <p>Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
-    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
-    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
-    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
-    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
-    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. 
-    Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. Ceci est un long texte. </p>
-    
 </form>
 
 <?php
