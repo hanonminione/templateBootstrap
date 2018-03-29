@@ -17,7 +17,7 @@ include 'header.html';
 <b>Ceci est en gras</b> <br />
 <a href="#">Ceci est un lien</a> <br />
 
-<form>
+<form class="form">
     <legend>Ceci est un formulaire</legend>
     <input type="submit" value="Bouton envoyer" />
     <input type="reset" value="Bouton reset" />
