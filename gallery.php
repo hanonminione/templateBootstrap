@@ -34,6 +34,34 @@ include 'header.html';
         <input type="radio" name="Boutons radio" value="" checked="checked" />Bouton Radio sélectionné<br/>
         <input type="radio" name="Boutons radio" value="" disabled="disabled" />Bouton Radio désactivé<br/>
     </fieldset>
+    <select name="list">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+    </select>
+    <select name="" size="3">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+    </select>
+    <select name="" multiple="multiple">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+    </select>
+    <select name="" disabled="disabled">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+    </select>
     
 </form>
 <?php
