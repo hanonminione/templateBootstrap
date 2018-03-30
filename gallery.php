@@ -25,13 +25,13 @@ include 'header.html';
     <input class="button" type="reset" value="Bouton reset" />
     <input class="button" type="button" value="Bouton classique" />
     <input class="button-dis" type="button" value="Bouton désactivé" disabled="disabled" />
-    <fieldset>
+    <fieldset class="fieldset">
         <legend>Ceci est un fieldset avec des checkbox</legend>
         <input type="checkbox" value="ON" /> Checkbox <br/>
         <input type="checkbox" value="ON" checked="checked" /> Checkbox sélectionné <br />
         <input type="checkbox" value="ON" disabled="disabled" /> Checkbox désactivé <br/>
     </fieldset>
-    <fieldset>
+    <fieldset class="fieldset">
         <legend>Ceci est un fieldset avec des boutons radio</legend>
         <input type="radio" name="Boutons radio" value="" />Bouton Radio<br/>
         <input type="radio" name="Boutons radio" value="" checked="checked" />Bouton Radio sélectionné<br/>
@@ -70,7 +70,7 @@ include 'header.html';
         </select>
     </fieldset>
     
-    <fieldset>
+    <fieldset class="fieldset">
         <legend>Ceci est un fieldset contenant des zones de texte</legend>
         <label for='text'>Ceci est le titre d'un input contenant du texte</label>
         <input type="text" id="text" value="" /> <br /><br />
@@ -92,7 +92,7 @@ include 'header.html';
         </textarea>
     </fieldset>
     
-    <fieldset>
+    <fieldset class="fieldset">
         <legend>Ceci est fait pour sélectionner des fichiers depuis votre ordinateur</legend>
         <label for='select'> Sélectionnez un fichier</label>
         <input type="file" id='select' name="" value="" /> <br /><br />
