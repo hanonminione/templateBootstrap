@@ -73,22 +73,22 @@ include 'header.html';
     <fieldset class="fieldset">
         <legend>Ceci est un fieldset contenant des zones de texte</legend>
         <label for='text'>Ceci est le titre d'un input contenant du texte</label>
-        <input type="text" id="text" value="" /> <br /><br />
+        <input class="selectalt" type="text" id="text" value="" /> <br /><br />
         <label for='mdp'>Ceci est le titre d'un input contenant un mot de passe</label>
-        <input type="password" id='mdp' name="" value="mot de passe" /><br /><br />
+        <input class="selectalt"type="password" id='mdp' name="" value="mot de passe" /><br /><br />
         <label for='invisible'>Ceci est le titre d'un input invisible</label>
-        <input type="hidden" id='invisible' name="" value="J'suis invisible LOL !" /><br /><br />
+        <input class="select" ="hidden" id='invisible' name="" value="J'suis invisible LOL !" /><br /><br />
         <label for='disabled'>Ceci est le titre d'un input désactivé</label>
-        <input type="text" id='disabled' name="" value="Je suis grisé" disabled="disabled" /><br /><br />
+        <input class="select" type="text" id='disabled' name="" value="Je suis grisé" disabled="disabled" /><br /><br />
         <label for='readonly'>Ceci est le titre d'un input qu'on ne peut pas modifier</label>
-        <input type="text" id='readonly' name="" value="Tu ne me changeras pas !" readonly="readonly" /><br /><br />
+        <input class="select" type="text" id='readonly' name="" value="Tu ne me changeras pas !" readonly="readonly" /><br /><br />
         <label for='size'>Ceci est le titre d'un input dont la taille est modifiée</label>
-        <input type="text" id='size' name="" value="" size="100" /><br /><br />
-        <textarea name="" rows="10" cols="100"> Je suis une grande zone de texte modifiable
+        <input class="select"type="text" id='size' name="" value="" size="100" /><br /><br />
+        <textarea class="select" name="" rows="10" cols="100"> Je suis une grande zone de texte modifiable
         </textarea>
-        <textarea name="" rows="10" cols="100" disabled="disabled"> Je suis une grande zone de texte désactivée
+        <textarea class="select" name="" rows="10" cols="100" disabled="disabled"> Je suis une grande zone de texte désactivée
         </textarea>
-        <textarea name="" rows="10" cols="100" readonly="readonly"> Je suis une grande zone de texte non-modifiable
+        <textarea class="select" name="" rows="10" cols="100" readonly="readonly"> Je suis une grande zone de texte non-modifiable
         </textarea>
     </fieldset>
     
